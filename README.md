@@ -45,7 +45,9 @@ the converted weights are on Hugging Face as single files.
 
 ## Quick start
 
-1. **Install the nodes.** Clone into `custom_nodes` and restart ComfyUI. There's nothing to `pip install`.
+1. **Install the nodes** and restart ComfyUI. Search for **Idol (image to 3D splat)** in ComfyUI-Manager, or install it
+   from the [Comfy Registry](https://registry.comfy.org/nodes/comfyui-idol) with `comfy node install comfyui-idol`. Or
+   clone it into `custom_nodes`. There's nothing to `pip install`.
 
    ```bash
    cd ComfyUI/custom_nodes
